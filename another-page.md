@@ -1,3 +1,3 @@
-This is another page. Will it appear in the site?
+Here is a cake!
 
 ![Cake](cake.jpg)
